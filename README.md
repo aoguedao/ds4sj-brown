@@ -6,7 +6,7 @@ __Brown University__
 
 | Lesson                             | Notebook             |
 | :-------------------------------- | :-------------------: |
-| Police Force | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/ds4sj/blob/main/lessons/police-force.ipynb) |
+| Police Force | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/ds4sj-brown/blob/main/lessons/police-force.ipynb) |
 
 
 
