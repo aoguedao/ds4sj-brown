@@ -9,6 +9,7 @@ __Brown University__
 | Computational Thinking  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/ds4sj-brown/blob/main/lessons/computational_thinking_foundations.ipynb) |
 | Police Force | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/ds4sj-brown/blob/main/lessons/police-force.ipynb) |
 | Recidivism | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/ds4sj-brown/blob/main/lessons/recidivism.ipynb) |
+| Regression | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aoguedao/ds4sj-brown/blob/main/lessons/ml_regression.ipynb) |
 
 
 ## Short Biography
